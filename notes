@@ -1,0 +1,7 @@
+from django.dispatch import Signal
+
+#python manage.py changepassword <user_name>
+
+admin 
+surestartis 
+
